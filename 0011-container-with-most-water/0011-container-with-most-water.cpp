@@ -17,12 +17,7 @@ public:
         }
         int distance = 0;
         int current_area =0;
-        for(int j = 0; j<height.size(); j++){
-            distance = abs((max_index+1)-(j+1));
-            current_area = (height[j])*distance;
-            cout<<current_area<<endl;
-            max_area = max(current_area, max_area);
-        }
+        
         int k = 0;
         int l = height.size()-1;
         while(k!=l){
