@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0414-third-maximum-number) |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
