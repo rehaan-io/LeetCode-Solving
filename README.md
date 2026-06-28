@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0410-split-array-largest-sum) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
