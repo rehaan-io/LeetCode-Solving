@@ -1,7 +1,6 @@
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
-        vector<int> nums2 = nums;
         int pivot;
         int swap_val = nums.size()-1;
         int i = nums.size()-2;
