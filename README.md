@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0013-roman-to-integer) |
+| [0344-reverse-string](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
