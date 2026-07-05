@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0204-count-primes](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0414-third-maximum-number) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0204-count-primes) |
 ## Recursion
 |  |
 | ------- |
@@ -106,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0567-permutation-in-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
