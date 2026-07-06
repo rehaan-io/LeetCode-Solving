@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0088-merge-sorted-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0344-reverse-string) |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0258-add-digits) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
