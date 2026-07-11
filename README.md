@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0540-single-element-in-a-sorted-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0567-permutation-in-string) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
@@ -150,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/rehaan-io/LeetCode-Solving/tree/master/2965-find-missing-and-repeated-values) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
