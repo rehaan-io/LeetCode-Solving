@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rehaan-io/LeetCode-Solving/tree/master/1480-running-sum-of-1d-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/rehaan-io/LeetCode-Solving/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0258-add-digits) |
+| [2965-find-missing-and-repeated-values](https://github.com/rehaan-io/LeetCode-Solving/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0013-roman-to-integer) |
 | [0567-permutation-in-string](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0567-permutation-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/rehaan-io/LeetCode-Solving/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -146,4 +149,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/rehaan-io/LeetCode-Solving/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
