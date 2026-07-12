@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0033-search-in-rotated-sorted-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0031-next-permutation) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/rehaan-io/LeetCode-Solving/tree/master/0414-third-maximum-number) |
