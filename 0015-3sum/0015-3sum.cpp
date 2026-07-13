@@ -32,10 +32,7 @@ public:
                     // Skip duplicate second elements
                     while (j < k && nums[j] == nums[j - 1])
                         j++;
-
-                    // Skip duplicate third elements
-                    while (j < k && nums[k] == nums[k + 1])
-                        k--;
+                    
                 }
             }
         }
